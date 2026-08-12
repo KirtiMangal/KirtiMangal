@@ -1,67 +1,66 @@
 <div align="center">
 
-Hi 👋, I'm Kirti Mangal
+👋 Hi, I'm Kirti Mangal
 
-Computer Science Student • Software Developer • AI/ML Enthusiast
-
-Building projects, solving DSA problems, and continuously learning new technologies.
+💻 Computer Science Student • Software Developer • AI/ML Enthusiast
 
 <p>
   <a href="https://www.linkedin.com/in/kirti-mangal-73594a281">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Mangal_Kirti/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://github.com/KirtiMangal">
-    <img src="https://img.shields.io/badge/GitHub-KirtiMangal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/KirtiMangal?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://github.com/KirtiMangal.png?size=180" width="150" height="150" style="border-radius:50%;" alt="Kirti Mangal"/>
+<p>
+  <b>Building projects • Solving DSA • Learning Backend • Exploring AI/ML</b>
+</p>
 
 </div>
 
-🚀 Quick Overview
+🚀 About Me
 
-<table align="center">
-<tr>
-<td align="center">
-<h3>💻 17+</h3>
-Repositories
-</td>
-<td align="center">
-<h3>⭐ 3+</h3>
-Stars
-</td>
-<td align="center">
-<h3>🧩 400+</h3>
-DSA Problems Solved
-</td>
-<td align="center">
-<h3>🌱 Always</h3>
-Learning & Growing
-</td>
-</tr>
-</table>
+🎓 Computer Science student passionate about software development
 
-👩‍💻 About Me
+💻 Interested in Java, Python, backend development and problem solving
 
-🎓 Computer Science student
-
-💻 Interested in Software Development and Backend Engineering
-
-🧩 Regularly practicing Data Structures & Algorithms
+🧩 Practicing Data Structures & Algorithms regularly
 
 🤖 Exploring AI/ML and practical AI applications
 
-🌱 Currently strengthening Java, Python and backend development
+🌱 Currently strengthening Java backend, Spring Boot, System Design and Python
 
-🚀 Interested in building real-world, scalable applications
+🚀 I enjoy turning ideas into practical projects and learning through building
+
+⚡ Quick Stats
+
+<div align="center">
+
+🧩 DSA
+
+📦 Repositories
+
+⭐ Stars
+
+🌱 Focus
+
+400+
+
+17+
+
+3+
+
+Learning & Building
+
+</div>
 
 🛠️ Tech Stack
 
-Languages
+💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -71,7 +70,7 @@ Languages
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-Frontend
+🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -80,17 +79,22 @@ Frontend
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-Backend & Databases
+⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
+
+🗄️ Databases
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-Tools
+🔧 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -100,16 +104,26 @@ Tools
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-📊 GitHub Snapshot
+📊 GitHub Activity
 
-<p align="center">
-  <img src="https://img.shields.io/github/repos/KirtiMangal?style=for-the-badge&label=Public%20Repos&logo=github" alt="Public repositories"/>
-  <img src="https://img.shields.io/github/stars/KirtiMangal?style=for-the-badge&label=Stars&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/KirtiMangal?style=for-the-badge&label=Followers&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/last-commit/KirtiMangal/KirtiMangal?style=for-the-badge&label=Profile%20Updated&logo=github" alt="Last profile commit"/>
-</p>
+<div align="center">
 
-💡 Your GitHub profile's native contribution graph appears automatically below your profile README. No external contribution image is required.
+<a href="https://github.com/KirtiMangal">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirtiMangal&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="48%"/>
+</a>
+<a href="https://github.com/KirtiMangal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiMangal&layout=compact&hide_border=true" width="40%"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/KirtiMangal">
+  <img src="https://streak-stats.demolab.com?user=KirtiMangal&hide_border=true" width="70%"/>
+</a>
+
+</div>
+
+Note: If any external stats card temporarily fails to load, GitHub's own contribution calendar below the README remains the reliable source of activity.
 
 🚀 Featured Projects
 
@@ -117,15 +131,17 @@ Tools
 <tr>
 <td width="50%" valign="top">
 
-💰 Price Monitoring System
+🐍 Price Monitoring System
 
-A Python backend application that tracks product prices across multiple sources and maintains historical price data.
+A Python backend application designed to track product prices across multiple sources and maintain historical price data.
 
 Tech: Python Backend Data Processing
 
-<a href="https://github.com/KirtiMangal/price-monitoring-system">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+<p>
+  <a href="./price-monitoring-system">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
@@ -133,13 +149,15 @@ Tech: Python Backend Data Processing
 
 🗺️ Journey Planner
 
-A Java-based project focused on journey planning using programming and data-structure concepts.
+A Java project focused on journey planning, programming fundamentals and data-structure concepts.
 
 Tech: Java DSA MySQL
 
-<a href="https://github.com/KirtiMangal/JourneyPlannar">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+<p>
+  <a href="./JourneyPlannar">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 </tr>
@@ -147,15 +165,17 @@ Tech: Java DSA MySQL
 <tr>
 <td width="50%" valign="top">
 
-🧩 DSA LeetCode
+🧩 DSA — LeetCode
 
-My ongoing Java repository for Data Structures & Algorithms and LeetCode problem solving.
+My Java repository for Data Structures & Algorithms and ongoing LeetCode problem solving.
 
 Tech: Java DSA Algorithms
 
-<a href="https://github.com/KirtiMangal/DSA-LEETCODE">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+<p>
+  <a href="./DSA-LEETCODE">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
@@ -163,67 +183,83 @@ Tech: Java DSA Algorithms
 
 💼 Bajaj Assignment
 
-A web development project created as part of an assessment/assignment.
+A JavaScript-based web development project created as part of an assessment.
 
 Tech: JavaScript Web Development
 
-<a href="https://github.com/KirtiMangal/bajaj-assignment">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+<p>
+  <a href="./bajaj-assignment">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/KirtiMangal?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-5B5BFF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/KirtiMangal?tab=repositories">
+  <img src="https://img.shields.io/badge/🔎%20Explore%20All%20Repositories-5B5BFF?style=for-the-badge"/>
+</a>
+
+</div>
 
 🧠 DSA & Problem Solving
+
+<div align="center">
+
+Arrays • Strings • Two Pointers • Sliding Window • Binary Search
+
+Linked List • Stack • Queue • Trees • Graphs
+
+Greedy • Dynamic Programming • Backtracking • Hashing
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/400%2B-DSA%20Problems-FF4F8B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-Problem%20Solving-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
-
-Currently practicing:
-
-Arrays • Strings • Two Pointers • Sliding Window • Binary Search • Trees • Graphs • Dynamic Programming • Greedy
 
 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/System%20Design-5B5BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-FF4F8B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+<div align="center">
 
-📈 My Development Journey
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-5B5BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-FF4F8B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-Learn → Build → Break → Debug → Improve → Repeat 🚀
+</div>
 
-I believe the best way to learn software development is by building projects, solving problems, understanding mistakes, and continuously improving.
+📈 My Development Philosophy
+
+<div align="center">
+
+Learn → Build → Debug → Improve → Repeat 🚀
+
+</div>
+
+I believe the best way to become a better developer is to build real projects, solve challenging problems, understand mistakes, and keep improving.
 
 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kirti-mangal-73594a281">
-    <img src="https://img.shields.io/badge/LinkedIn-Kirti%20Mangal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Mangal_Kirti/">
-    <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/KirtiMangal">
-    <img src="https://img.shields.io/badge/GitHub-KirtiMangal-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kirti-mangal-73594a281">
+  <img src="https://img.shields.io/badge/LinkedIn-Kirti%20Mangal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Mangal_Kirti/">
+  <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://github.com/KirtiMangal?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-KirtiMangal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <div align="center">
 
