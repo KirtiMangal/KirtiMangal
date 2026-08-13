@@ -64,7 +64,7 @@ Computer Science student interested in **software development, backend engineeri
 
 </div>
 
-<h2 align="center">🔥 Current Streak</h2>
+<!-- <h2 align="center">🔥 Current Streak</h2>
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Computer Science student interested in **software development, backend engineeri
   alt="Kirti Mangal GitHub Streak"
 />
 
-</div>
+</div> -->
 
 <h2 align="center">⚡ Quick Stats</h2>
 
