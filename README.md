@@ -1,16 +1,28 @@
 <div align="center">
 
-<img src="./assets/github-dashboard.svg" width="100%" alt="Kirti Mangal GitHub Dashboard"/>
+# 👋 Hi, I'm Kirti Mangal
 
-<br><br>
+### 💻 Computer Science Student | Software Developer | AI/ML Enthusiast
 
-<a href="https://www.linkedin.com/in/kirti-mangal-73594a281">LinkedIn</a> •
-<a href="https://leetcode.com/u/Mangal_Kirti/">LeetCode</a> •
-<a href="https://github.com/KirtiMangal">GitHub</a>
+<p>
+  Building projects • Solving DSA • Learning Backend • Exploring AI/ML
+</p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/kirti-mangal-73594a281">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Mangal_Kirti/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/KirtiMangal">
+  <img src="https://img.shields.io/badge/GitHub-KirtiMangal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
----
 
 ## 👩‍💻 About Me
 
@@ -37,6 +49,72 @@ Computer Science student interested in **software development, backend engineeri
 
 `Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Binary Search`  
 `Linked List` `Stack` `Queue` `Trees` `Graphs` `Greedy` `Dynamic Programming`
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirtiMangal&theme=tokyonight" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KirtiMangal&theme=tokyonight" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KirtiMangal&theme=tokyonight" width="45%"/>
+
+</div>
+
+<h2 align="center">🔥 Current Streak</h2>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=KirtiMangal&theme=tokyonight&hide_border=true&border_radius=12"
+  width="75%"
+  alt="Kirti Mangal GitHub Streak"
+/>
+
+</div>
+
+<h2 align="center">⚡ Quick Stats</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="180">
+<h3>🧩</h3>
+<b>DSA</b>
+<br>
+400+ Problems
+</td>
+
+<td align="center" width="180">
+<h3>📦</h3>
+<b>Repositories</b>
+<br>
+17+
+</td>
+
+<td align="center" width="180">
+<h3>⭐</h3>
+<b>Stars</b>
+<br>
+3+
+</td>
+
+<td align="center" width="180">
+<h3>🌱</h3>
+<b>Focus</b>
+<br>
+Learning & Building
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## 🌱 Currently Learning
 
