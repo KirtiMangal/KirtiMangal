@@ -36,27 +36,39 @@
 
 🚀 I enjoy turning ideas into practical projects and learning through building
 
-⚡ Quick Stats
+<!-- ===================== QUICK STATS ===================== -->
 
-<div align="center">
+<h2 align="center">⚡ Quick Stats</h2>
 
-🧩 DSA
+<br>
 
-📦 Repositories
+<table align="center">
+<tr>
 
-⭐ Stars
+<td align="center" width="180">
+  <h2>400+</h2>
+  <p>🧩 DSA Problems</p>
+</td>
 
-🌱 Focus
+<td align="center" width="180">
+  <h2>17+</h2>
+  <p>📦 Repositories</p>
+</td>
 
-400+
+<td align="center" width="180">
+  <h2>3+</h2>
+  <p>⭐ GitHub Stars</p>
+</td>
 
-17+
+<td align="center" width="180">
+  <h2>🚀</h2>
+  <p>Learning & Building</p>
+</td>
 
-3+
+</tr>
+</table>
 
-Learning & Building
-
-</div>
+<br>
 
 🛠️ Tech Stack
 
