@@ -1,8 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5BFF,100:0A66C2&height=200&section=header&text=Hi%20There,%20I'm%20Kirti%20Mangal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/> <a href="https://www.linkedin.com/in/kirti-mangal-73594a281"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://leetcode.com/u/Mangal_Kirti/"> <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://github.com/KirtiMangal?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=KirtiMangal&label=Profile%20Views&color=5B5BFF&style=flat" alt="Profile views"/> </div> <br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5BFF,100:0A66C2&height=200&section=header&text=Hi%20There%2C%20I%27m%20Kirti%20Mangal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Kirti Mangal header banner"/> <a href="https://www.linkedin.com/in/kirti-mangal-73594a281"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://leetcode.com/u/Mangal_Kirti/"> <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://github.com/KirtiMangal?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=KirtiMangal&label=Profile%20Views&color=5B5BFF&style=flat" alt="Profile views"/> </div> <br/>
 🚀 About Me
 <ul style="list-style: none; padding-left: 0; line-height: 2.2;"> <li>🎓&nbsp;&nbsp;Computer Science student passionate about software development</li> <li>💻&nbsp;&nbsp;Interested in Java, Python, backend development, and problem solving</li> <li>🧩&nbsp;&nbsp;Practicing Data Structures &amp; Algorithms regularly</li> <li>🤖&nbsp;&nbsp;Exploring AI/ML and practical AI applications</li> <li>🌱&nbsp;&nbsp;Currently strengthening Java backend, Spring Boot, System Design, and Python</li> <li>⚡&nbsp;&nbsp;Fun fact: I enjoy turning ideas into practical projects and learning by building</li> </ul> <br/>
 ⚡ Quick Stats
-<table align="center"> <tr> <td align="center" width="180"> <h2>400+</h2> 🧩 DSA Problems </td> <td align="center" width="180"> <h2>17+</h2> 📦 Repositories </td> <td align="center" width="180"> <h2>3+</h2> ⭐ GitHub Stars </td> <td align="center" width="180"> <h2>🚀</h2> Learning & Building </td> </tr> </table> <br/>
+<table align="center"> <tr> <td align="center" valign="middle" width="180"> <h2 align="center">400+</h2> <p align="center">🧩 DSA Problems</p> </td> <td align="center" valign="middle" width="180"> <h2 align="center">17+</h2> <p align="center">📦 Repositories</p> </td> <td align="center" valign="middle" width="180"> <h2 align="center">3+</h2> <p align="center">⭐ GitHub Stars</p> </td> <td align="center" valign="middle" width="180"> <h2 align="center">🚀</h2> <p align="center">Learning &amp; Building</p> </td> </tr> </table> <br/>
 🛠️ Tech Stack
 
 Languages
@@ -25,7 +25,15 @@ Tools
 
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </p> <br/>
 📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KirtiMangal&show_icons=true&hide_border=true&count_private=true&rank_icon=github&theme=merko" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiMangal&layout=compact&hide_border=true&theme=merko" width="38%"/> <br/> <img src="https://streak-stats.demolab.com/?user=KirtiMangal&hide_border=true&theme=merko" width="60%"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KirtiMangal&bg_color=0A0F0B&color=ABD200&line=ABD200&point=B7D364&area=true&hide_border=true" width="90%"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KirtiMangal&show_icons=true&hide_border=true&count_private=true&rank_icon=github&theme=merko" width="48%" alt="Kirti's GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiMangal&layout=compact&hide_border=true&theme=merko" width="38%" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=KirtiMangal&hide_border=true&theme=merko" width="60%" alt="GitHub streak stats"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/ABD200/KirtiMangal" width="90%" alt="Kirti's contribution graph"/> </div>
 
 ⚠️ Note on reliability: The cards above call free public APIs (Vercel-hosted). These occasionally go down under heavy shared traffic and show a broken image instead of your stats — that's a known upstream issue, not something wrong with your README. See the "Making this truly live & reliable" section below for a permanent fix.
 
@@ -75,7 +83,7 @@ Show Image
 🧠 DSA & Problem Solving
 <div align="center">
 
-Arrays • Strings • Two Pointers • Sliding Window • Binary Search Linked List • Stack • Queue • Trees • Graphs Greedy • Dynamic Programming • Backtracking • Hashing
+Arrays • Strings • Two Pointers • Sliding Window • Binary Search<br/> Linked List • Stack • Queue • Trees • Graphs<br/> Greedy • Dynamic Programming • Backtracking • Hashing
 
 <p> <img src="https://img.shields.io/badge/400%2B-DSA%20Problems-FF4F8B?style=for-the-badge&logo=leetcode&logoColor=white"/> <img src="https://img.shields.io/badge/Java-Problem%20Solving-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> </p> </div> <br/>
 🌱 Currently Learning
@@ -89,4 +97,8 @@ I believe the best way to become a better developer is to build real projects, s
 
 </div> <br/>
 🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/kirti-mangal-73594a281"> <img src="https://img.shields.io/badge/LinkedIn-Kirti%20Mangal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/Mangal_Kirti/"> <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://github.com/KirtiMangal?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-KirtiMangal-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5B5BFF&height=100&section=footer"/> <div align="center"> 💖 Thanks for visiting my profile! Made with ❤️ by Kirti Mangal </div>
+<div align="center"> <a href="https://www.linkedin.com/in/kirti-mangal-73594a281"> <img src="https://img.shields.io/badge/LinkedIn-Kirti%20Mangal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/Mangal_Kirti/"> <img src="https://img.shields.io/badge/LeetCode-Mangal__Kirti-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://github.com/KirtiMangal?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-KirtiMangal-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5B5BFF&height=100&section=footer" width="100%" alt="footer banner"/>
+
+💖 Thanks for visiting my profile! Made with ❤️ by Kirti Mangal
+
+</div>
