@@ -27,39 +27,48 @@ Building practical applications • Solving DSA • Exploring AI-powered solutio
 
 Aspiring Software Engineer with a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**. Skilled in Java, SQL, and full-stack development, with experience building RESTful applications and solving algorithmic problems. Eager to apply strong problem-solving skills, learn new technologies, and contribute to challenging software engineering projects.
 
-## 🛠️ Tech Stack
 
-<div align="center">
+## 💻 Tech Stack
 
-**Languages**
+### 🚀 Development Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c&perline=5" height="42" alt="Programming languages"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br/><br/>
+### 🗄️ Databases
 
-**Backend & APIs**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&perline=4" height="42" alt="Backend technologies"/>
+### 🔌 APIs & Development Tools
 
-<br/><br/>
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Frontend**
+### ☁️ Cloud & Platforms
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=4" height="42" alt="Frontend technologies"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-<br/><br/>
+### 🧠 Core Computer Science
 
-**Databases**
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-6A5ACD?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-007396?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4169E1?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-555555?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-008B8B?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=3" height="42" alt="Databases"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws&perline=5" height="42" alt="Tools and platforms"/>
-
-</div>
 
 ## 🚀 Featured Projects
 
