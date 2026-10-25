@@ -25,7 +25,34 @@ Building practical applications • Solving DSA • Exploring AI-powered solutio
 
 ## 👩‍💻 About Me
 
-Aspiring Software Engineer with a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**. Skilled in Java, SQL, and full-stack development, with experience building RESTful applications and solving algorithmic problems. Eager to apply strong problem-solving skills, learn new technologies, and contribute to challenging software engineering projects.
+
+<div align="center">
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+Aspiring Software Engineer with a strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**.
+
+💻 Passionate about software development and problem-solving.
+
+🚀 Building full-stack applications and exploring AI-powered solutions.
+
+🌱 Always learning, building, and improving.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kirti-mangal-73594a281).
+
+</td>
+<td width="40%" align="center">
+
+
+<img src="./Friendly%20Developer%20at%20a%20Laptop.png"
+     width="300"
+     alt="Girl coding illustration"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 
 ## 💻 Tech Stack
