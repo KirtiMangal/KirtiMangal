@@ -31,42 +31,61 @@ Aspiring Software Engineer with a strong foundation in **Data Structures & Algor
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" alt="Programming languages"/>
+**Languages**
 
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c&perline=5" height="42" alt="Programming languages"/>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend technologies"/>
+<br/><br/>
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,docker,postman" alt="Databases and development tools"/>
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&perline=4" height="42" alt="Backend technologies"/>
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=4" height="42" alt="Frontend technologies"/>
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=3" height="42" alt="Databases"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws&perline=5" height="42" alt="Tools and platforms"/>
 
 </div>
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 ### 🔧 [FixIt — AI-Powered Repair & Maintenance Platform](https://github.com/KirtiMangal/Fixit)
-
-</div>
 
 A full-stack application that helps users diagnose common issues, explore DIY repair guidance, and manage service requests and maintenance reminders.
 
 - Built backend services using **Java, Spring Boot, and FastAPI**, with a React frontend.
 - Integrated AI-assisted issue diagnosis and repair recommendations.
 - Implemented authentication and role-based access control.
-- Designed features for repair history, service requests, and maintenance tracking.
+- Developed repair history, service requests, and maintenance tracking features.
 
 **Tech Stack:** `Java` `Spring Boot` `React.js` `FastAPI` `REST APIs` `JWT` `AI Integration`
 
 <div align="center">
+  <a href="https://fixit-jade.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20FixIt-2EA44F?style=for-the-badge" alt="Visit FixIt"/>
+  </a>
+  <a href="https://github.com/KirtiMangal/Fixit">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="FixIt source code"/>
+  </a>
+</div>
+
+---
 
 ### 🔎 [CampusLostFound — Campus Lost & Found Platform](https://github.com/KirtiMangal/CampusLostFound)
-
-</div>
 
 A full-stack platform that helps campus users report lost and found items, discover potential matches, and manage item claims securely.
 
@@ -74,15 +93,22 @@ A full-stack platform that helps campus users report lost and found items, disco
 - Integrated **Gemini AI** for item descriptions and matching assistance.
 - Used **Cloudinary** for image uploads and MongoDB for data storage.
 - Implemented JWT authentication, role-based access, and claim approval workflows.
-- Added administrative moderation and analytics features.
+- Added administrative moderation, analytics, and audit-related features.
 
 **Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Gemini AI` `Cloudinary` `JWT`
 
 <div align="center">
-
-### 🗺️ Journey Planner — Route Planning & Optimization
-
+  <a href="https://campus-lost-found-lyart.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20CampusLostFound-2EA44F?style=for-the-badge" alt="Visit CampusLostFound"/>
+  </a>
+  <a href="https://github.com/KirtiMangal/CampusLostFound">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="CampusLostFound source code"/>
+  </a>
 </div>
+
+---
+
+### 🗺️ [Journey Planner — Route Planning & Optimization](https://github.com/KirtiMangal)
 
 A backend-focused project for journey planning and route management.
 
@@ -92,11 +118,9 @@ A backend-focused project for journey planning and route management.
 
 **Tech Stack:** `Java` `Spring Boot` `MySQL` `REST APIs` `DSA`
 
-<div align="center">
+---
 
-### 📈 Price Monitoring System
-
-</div>
+### 📈 [Price Monitoring System](https://github.com/KirtiMangal)
 
 A Python-based application for tracking product prices and maintaining historical price records.
 
@@ -105,6 +129,8 @@ A Python-based application for tracking product prices and maintaining historica
 - Implemented historical price tracking and data analysis features.
 
 **Tech Stack:** `Python` `FastAPI` `SQLAlchemy` `SQLite` `REST APIs`
+
+---
 
 ## 🧠 DSA & Problem Solving
 
@@ -132,17 +158,9 @@ Practicing problem-solving and algorithmic thinking through coding challenges.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirtiMangal&theme=tokyonight" width="95%" alt="GitHub profile summary"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KirtiMangal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub statistics"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KirtiMangal&theme=tokyonight" width="46%" alt="Languages by repository"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KirtiMangal&theme=tokyonight" width="46%" alt="Most used languages in commits"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=KirtiMangal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="70%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiMangal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="38%" alt="Most used programming languages"/>
 
 </div>
 
@@ -150,34 +168,11 @@ Practicing problem-solving and algorithmic thinking through coding challenges.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="180">
-<h2>🧩</h2>
-<b>DSA Practice</b>
-<br/>
-400+ Problems
-</td>
-<td align="center" width="180">
-<h2>🚀</h2>
-<b>Featured Projects</b>
-<br/>
-4 Projects
-</td>
-<td align="center" width="180">
-<h2>🌐</h2>
-<b>Live Applications</b>
-<br/>
-2 Deployed Projects
-</td>
-<td align="center" width="180">
-<h2>💡</h2>
-<b>Core Focus</b>
-<br/>
-Software Engineering
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/DSA-400%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="DSA practice"/>
+
+<img src="https://img.shields.io/badge/Featured%20Projects-4-8957E5?style=flat-square" alt="Featured projects"/>
+
+<img src="https://img.shields.io/badge/Deployed%20Applications-2-2EA44F?style=flat-square" alt="Deployed applications"/>
 
 </div>
 
