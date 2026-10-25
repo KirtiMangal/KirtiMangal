@@ -19,8 +19,6 @@ Building practical applications • Solving DSA • Exploring AI-powered solutio
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="85%" alt="divider"/>
-
 </div>
 
 ## 👩‍💻 About Me
